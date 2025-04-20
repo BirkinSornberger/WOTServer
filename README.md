@@ -31,3 +31,5 @@ Wireshark
 Android Platform Tools (ADB, Apksigner)
 Unmodified Futurama APK
 Unmodified Family Guy: The Quest for Stuff
+
+You can now begin monitoring and responding to requests
