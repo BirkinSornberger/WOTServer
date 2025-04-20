@@ -1,0 +1,16 @@
+{
+    "response": [
+      {
+        "signed_salt": "[1744580606.1234567, \"abc123def456ghi789jkl012mno345pq\"].XYZ9abcDEF0ghiJKL1mno",
+        "salt": "abc123def456ghi789jkl012mno345pq",
+        "success": true
+      },
+      {
+        "player_id": "3cd67ef890123456abcdef7890123456",
+        "human_id": null,
+        "env": "prod",
+        "community_id": "c12def345678",
+        "success": true
+      }
+    ]
+  }
